@@ -6,3 +6,5 @@ This also includes servers that have haproxy protocol on
 Scanned using AllahFinder v2
 
 Might release a version that contains an information which servers are cracked soon
+
+Currently added 230000 servers
